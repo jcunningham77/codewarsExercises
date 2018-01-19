@@ -1,4 +1,6 @@
 RemoteSystemsTempFiles/*
 RemoteSystemTempFiles/*
+.recommenders/
 .metadata/*
 .DS_Store
+

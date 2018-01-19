@@ -37,6 +37,32 @@ public class HowManyNumbersTest {
 	}
 	
 	@Test
+	public void test32and7Scenario(){
+		long[] expectedResult = {8, 118, 334};
+		List<Long> resultList = HowManyNumbers.findAll(32,7);	
+		long[] actualresult = new long[3];
+		
+		
+		for( int i = 0; i < resultList.size(); i++ ){
+			actualresult[i] = resultList.get(i);
+		}	
+		Assert.assertArrayEquals(expectedResult,actualresult );		
+	}	
+	
+	@Test
+	public void test28and8Scenario(){
+		long[] expectedResult = {255, 11111599, 33334444};
+		List<Long> resultList = HowManyNumbers.findAll(28,8);	
+		long[] actualresult = new long[3];
+		
+		
+		for( int i = 0; i < resultList.size(); i++ ){
+			actualresult[i] = resultList.get(i);
+		}	
+		Assert.assertArrayEquals(expectedResult,actualresult );		
+	}		
+	
+	@Test
 	public void test10and4Scenario(){
 		long[] expectedResult = {9, 1117, 2233};
 		List<Long> resultList = HowManyNumbers.findAll(10,4);
