@@ -1,0 +1,4 @@
+RemoteSystemsTempFiles/*
+RemoteSystemTempFiles/*
+.metadata/*
+.DS_Store
