@@ -4,3 +4,8 @@ RemoteSystemTempFiles/*
 .metadata/*
 .DS_Store
 
+/.metadata/
+*.classpath*
+*.project*
+*.settings*
+
