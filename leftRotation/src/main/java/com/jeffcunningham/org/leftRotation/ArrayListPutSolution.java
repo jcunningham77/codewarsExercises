@@ -46,12 +46,7 @@ public class ArrayListPutSolution {
         
         for (int i=0;i<n;i++) {
         	System.out.print(result[i] + " ");	
-        }
-        
-        
-        
-        
-        
+        } 
 
 	}
 
