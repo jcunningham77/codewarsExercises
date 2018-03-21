@@ -1,0 +1,58 @@
+2018-03-20 21:28:54 [main] INFO  App:16 - Hello World!
+2018-03-20 21:28:54 [main] INFO  App:48 - left is legit, it equals =2
+2018-03-20 21:28:54 [main] INFO  App:45 - left == null
+2018-03-20 21:28:54 [main] INFO  App:63 - right is legit, it equals =67
+2018-03-20 21:28:54 [main] INFO  App:63 - right is legit, it equals =90
+2018-03-20 21:28:54 [main] INFO  App:60 - right == null
+2018-03-20 21:30:34 [main] INFO  App:16 - Hello World!
+2018-03-20 21:30:34 [main] INFO  App:47 - left is legit, it equals =2
+2018-03-20 21:30:34 [main] INFO  App:44 - left == null
+2018-03-20 21:30:34 [main] INFO  App:62 - right is legit, it equals =67
+2018-03-20 21:30:34 [main] INFO  App:62 - right is legit, it equals =90
+2018-03-20 21:30:34 [main] INFO  App:59 - right == null
+2018-03-20 21:48:54 [main] INFO  App:16 - Hello World!
+2018-03-20 21:48:54 [main] INFO  App:29 - Is this node a binary search tree? true
+2018-03-20 21:51:50 [main] INFO  App:16 - Hello World!
+2018-03-20 21:51:50 [main] INFO  App:50 - Node data = 5, right is null, left=2
+2018-03-20 21:51:50 [main] INFO  App:44 - Node data = 2, left and right are both null.
+2018-03-20 21:51:50 [main] INFO  App:53 - Node data = 40, right is = 67 left=21
+2018-03-20 21:51:50 [main] INFO  App:47 - Node data = 67, left is null, right=90
+2018-03-20 21:51:50 [main] INFO  App:44 - Node data = 90, left and right are both null.
+2018-03-20 21:51:50 [main] INFO  App:50 - Node data = 21, right is null, left=18
+2018-03-20 21:51:50 [main] INFO  App:44 - Node data = 18, left and right are both null.
+2018-03-20 21:51:50 [main] INFO  App:29 - Is this node a binary search tree? true
+2018-03-20 22:05:46 [main] INFO  App:16 - Hello World!
+2018-03-20 22:09:25 [main] INFO  App:16 - Hello World!
+2018-03-20 22:09:25 [main] INFO  App:85 - Node data = 2, right is = 4 left=1
+2018-03-20 22:09:25 [main] INFO  App:76 - Node data = 4, left and right are both null.
+2018-03-20 22:09:25 [main] INFO  App:76 - Node data = 1, left and right are both null.
+2018-03-20 22:09:25 [main] INFO  App:85 - Node data = 6, right is = 7 left=5
+2018-03-20 22:09:25 [main] INFO  App:76 - Node data = 7, left and right are both null.
+2018-03-20 22:09:25 [main] INFO  App:76 - Node data = 5, left and right are both null.
+2018-03-20 22:09:25 [main] INFO  App:21 - Is this node a binary search tree? true
+2018-03-20 22:18:31 [main] INFO  App:16 - Hello World!
+2018-03-20 22:19:11 [main] INFO  App:16 - Hello World!
+2018-03-20 22:19:11 [main] INFO  App:72 - Node data = 3, right is = 6 left=2
+2018-03-20 22:19:11 [main] INFO  App:72 - Node data = 6, right is = 7 left=5
+2018-03-20 22:19:11 [main] INFO  App:63 - Node data = 7, left and right are both null.
+2018-03-20 22:19:11 [main] INFO  App:63 - Node data = 5, left and right are both null.
+2018-03-20 22:19:11 [main] INFO  App:72 - Node data = 2, right is = 4 left=1
+2018-03-20 22:19:11 [main] INFO  App:63 - Node data = 4, left and right are both null.
+2018-03-20 22:19:11 [main] INFO  App:63 - Node data = 1, left and right are both null.
+2018-03-20 22:19:11 [main] INFO  App:21 - Is this node a binary search tree? true
+2018-03-20 23:09:13 [main] INFO  App:19 - Hello World!
+2018-03-20 23:09:13 [main] INFO  App:100 - Node data = 3, right is = 6 left=2
+2018-03-20 23:09:13 [main] INFO  App:67 - checking ancestors from the left =  3 current node=6
+2018-03-20 23:09:13 [main] INFO  App:100 - Node data = 6, right is = 7 left=5
+2018-03-20 23:09:13 [main] INFO  App:67 - checking ancestors from the left =  3 current node=7
+2018-03-20 23:09:13 [main] INFO  App:67 - checking ancestors from the left =  6 current node=7
+2018-03-20 23:09:13 [main] INFO  App:89 - Node data = 7, left and right are both null.
+2018-03-20 23:09:13 [main] INFO  App:67 - checking ancestors from the left =  3 current node=5
+2018-03-20 23:09:13 [main] INFO  App:77 - checking ancestors from the right =  6 current node=5
+2018-03-20 23:09:13 [main] INFO  App:89 - Node data = 5, left and right are both null.
+2018-03-20 23:09:13 [main] INFO  App:77 - checking ancestors from the right =  3 current node=2
+2018-03-20 23:09:13 [main] INFO  App:100 - Node data = 2, right is = 4 left=1
+2018-03-20 23:09:13 [main] INFO  App:67 - checking ancestors from the left =  2 current node=4
+2018-03-20 23:09:13 [main] INFO  App:77 - checking ancestors from the right =  3 current node=4
+2018-03-20 23:09:13 [main] INFO  App:79 - returning false
+2018-03-20 23:09:13 [main] INFO  App:24 - Is this node a binary search tree? false
