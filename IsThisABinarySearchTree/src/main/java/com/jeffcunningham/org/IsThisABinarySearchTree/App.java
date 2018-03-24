@@ -65,7 +65,7 @@ public class App {
 		if (!ancestorsFromTheLeft.isEmpty()) {
 			for (Node ancestorFromTheLeft: ancestorsFromTheLeft) {
 //				logger.info("checking ancestors from the left =  " + ancestorFromTheLeft.data + " current node=" + node.data );
-				if (node.data<ancestorFromTheLeft.data) {
+				if (node.data<=ancestorFromTheLeft.data) {
 //					logger.info("returning false");
 					return false;
 				}
@@ -75,7 +75,7 @@ public class App {
 		if (!ancestorsFromTheRight.isEmpty()) {
 			for (Node ancestorFromTheRight: ancestorsFromTheRight) {
 //				logger.info("checking ancestors from the right =  " + ancestorFromTheRight.data + " current node=" + node.data );
-				if (node.data>ancestorFromTheRight.data) {
+				if (node.data>=ancestorFromTheRight.data) {
 //					logger.info("returning false");
 					return false;
 				}
@@ -115,7 +115,7 @@ public class App {
 			
 
 			return true&&isNodeLegit(node.right,ancestorsFromTheLeftForRightCheck,ancestorsFromTheRightForRightCheck)&&isNodeLegit(node.left,ancestorsFromTheLeftForLeftCheck,ancestorsFromTheRightForLeftCheck);
-		} else if (node.right.data<node.data||node.left.data>node.data) {
+		} else if (node.right.data<=node.data||node.left.data>=node.data) {
 //			logger.info("we have a problem");
 			return false;
 		} 
