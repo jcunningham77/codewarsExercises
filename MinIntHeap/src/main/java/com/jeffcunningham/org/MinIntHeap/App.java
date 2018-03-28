@@ -68,19 +68,7 @@ public class App {
 //				System.out.println(
 //						"maxIntHeap.peek() =  " + maxIntHeap.peek() + " maxIntHeap.items.size = " + maxIntHeap.size);
 
-				if (minIntHeap.size - maxIntHeap.size > 1) {
-//						logger.info("moving " + minIntHeap.peek() + " from minHeap to MaxHeap");
-						maxIntHeap.add(minIntHeap.poll());
-					
-				}
-
-				if (maxIntHeap.size - minIntHeap.size > 1) {
-					
-					
-//						logger.info("moving " + maxIntHeap.peek() + " from maxheap to minHeap");
-						minIntHeap.add(maxIntHeap.poll());
-					
-				}
+				balanceHeaps(minIntHeap, maxIntHeap);
 				
 //				System.out.println("minIntHeap.peek() =  " + minIntHeap.peek() + " minIntHeap.items.size = " + minIntHeap.size);
 //				System.out.println("maxIntHeap.peek() =  " + maxIntHeap.peek() + " maxIntHeap.items.size = " + maxIntHeap.size);
@@ -113,19 +101,7 @@ public class App {
 //				System.out.println("maxIntHeap.peek() =  " + maxIntHeap.peek() + " maxIntHeap.items.size = " + maxIntHeap.size);
 
 
-				if (minIntHeap.size - maxIntHeap.size > 1) {
-
-//					logger.info("moving " + minIntHeap.peek() + " from minHeap to MaxHeap");
-					maxIntHeap.add(minIntHeap.poll());
-
-				}
-
-				if (maxIntHeap.size - minIntHeap.size > 1) {
-
-//					logger.info("moving " + maxIntHeap.peek() + " from maxheap to minHeap");
-					minIntHeap.add(maxIntHeap.poll());
-
-				}
+				balanceHeaps(minIntHeap, maxIntHeap);
 				
 
 //				System.out.println(
@@ -145,6 +121,22 @@ public class App {
 
 		}
 
+	}
+
+	private static void balanceHeaps(MinIntHeap minIntHeap, MaxIntHeap maxIntHeap) {
+		if (minIntHeap.size - maxIntHeap.size > 1) {
+//						logger.info("moving " + minIntHeap.peek() + " from minHeap to MaxHeap");
+				maxIntHeap.add(minIntHeap.poll());
+			
+		}
+
+		if (maxIntHeap.size - minIntHeap.size > 1) {
+			
+			
+//						logger.info("moving " + maxIntHeap.peek() + " from maxheap to minHeap");
+				minIntHeap.add(maxIntHeap.poll());
+			
+		}
 	}
 
 }
