@@ -1,0 +1,272 @@
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 1 elements is = 1
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 3 elements is = 2
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 5 elements is = 3
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 7 elements is = 4
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 9 elements is = 5
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 11 elements is = 6
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 13 elements is = 7
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 15 elements is = 8
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 17 elements is = 9
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 19 elements is = 10
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 21 elements is = 11
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 23 elements is = 12
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 25 elements is = 13
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 27 elements is = 14
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 29 elements is = 15
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 31 elements is = 16
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 33 elements is = 17
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 35 elements is = 18
+2018-03-27 17:37:10 [main] INFO  App:36 - The middle index of a array of 37 elements is = 19
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 0 elements is = 0, and 1. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 1 elements is = 1
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 2 elements is = 1, and 2. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 3 elements is = 2
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 4 elements is = 2, and 3. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 5 elements is = 3
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 6 elements is = 3, and 4. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 7 elements is = 4
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 8 elements is = 4, and 5. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 9 elements is = 5
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 10 elements is = 5, and 6. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 11 elements is = 6
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 12 elements is = 6, and 7. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 13 elements is = 7
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 14 elements is = 7, and 8. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 15 elements is = 8
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 16 elements is = 8, and 9. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 17 elements is = 9
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 18 elements is = 9, and 10. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 19 elements is = 10
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 20 elements is = 10, and 11. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 21 elements is = 11
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 22 elements is = 11, and 12. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 23 elements is = 12
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 24 elements is = 12, and 13. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 25 elements is = 13
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 26 elements is = 13, and 14. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 27 elements is = 14
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 28 elements is = 14, and 15. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 29 elements is = 15
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 30 elements is = 15, and 16. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 31 elements is = 16
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 32 elements is = 16, and 17. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 33 elements is = 17
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 34 elements is = 17, and 18. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 35 elements is = 18
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 36 elements is = 18, and 19. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 37 elements is = 19
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 38 elements is = 19, and 20. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 39 elements is = 20
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 40 elements is = 20, and 21. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 41 elements is = 21
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 42 elements is = 21, and 22. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 43 elements is = 22
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 44 elements is = 22, and 23. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 45 elements is = 23
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 46 elements is = 23, and 24. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 47 elements is = 24
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 48 elements is = 24, and 25. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 49 elements is = 25
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 50 elements is = 25, and 26. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 51 elements is = 26
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 52 elements is = 26, and 27. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 53 elements is = 27
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 54 elements is = 27, and 28. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 55 elements is = 28
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 56 elements is = 28, and 29. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 57 elements is = 29
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 58 elements is = 29, and 30. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 59 elements is = 30
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 60 elements is = 30, and 31. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 61 elements is = 31
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 62 elements is = 31, and 32. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 63 elements is = 32
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 64 elements is = 32, and 33. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 65 elements is = 33
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 66 elements is = 33, and 34. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 67 elements is = 34
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 68 elements is = 34, and 35. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 69 elements is = 35
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 70 elements is = 35, and 36. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 71 elements is = 36
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 72 elements is = 36, and 37. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 73 elements is = 37
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 74 elements is = 37, and 38. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 75 elements is = 38
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 76 elements is = 38, and 39. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 77 elements is = 39
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 78 elements is = 39, and 40. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 79 elements is = 40
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 80 elements is = 40, and 41. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 81 elements is = 41
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 82 elements is = 41, and 42. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 83 elements is = 42
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 84 elements is = 42, and 43. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 85 elements is = 43
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 86 elements is = 43, and 44. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 87 elements is = 44
+2018-03-27 17:41:47 [main] INFO  App:44 - The middle indexes of a array of 88 elements is = 44, and 45. 
+2018-03-27 17:41:47 [main] INFO  App:37 - The middle index of a array of 89 elements is = 45
+2018-03-27 17:52:26 [main] INFO  App:47 - 6.0
+2018-03-27 17:52:26 [main] INFO  App:39 - 12
+2018-03-27 17:52:26 [main] INFO  App:47 - 8.0
+2018-03-27 17:52:26 [main] INFO  App:39 - 5
+2018-03-27 17:52:26 [main] INFO  App:47 - 8.0
+2018-03-27 17:52:26 [main] INFO  App:39 - 12
+2018-03-27 17:55:31 [main] INFO  App:39 - 0
+2018-03-27 17:55:31 [main] INFO  App:53 - 6.0
+2018-03-27 17:55:31 [main] INFO  App:45 - 12
+2018-03-27 17:55:31 [main] INFO  App:53 - 8.0
+2018-03-27 17:55:31 [main] INFO  App:45 - 5
+2018-03-27 17:55:31 [main] INFO  App:53 - 8.0
+2018-03-27 17:55:31 [main] INFO  App:45 - 12
+2018-03-27 17:57:03 [main] INFO  App:39 - 12
+2018-03-27 17:57:03 [main] INFO  App:43 - 12
+2018-03-27 17:57:03 [main] INFO  App:49 - 8.0
+2018-03-27 17:57:03 [main] INFO  App:43 - 5
+2018-03-27 17:57:03 [main] INFO  App:49 - 8.0
+2018-03-27 17:57:03 [main] INFO  App:43 - 12
+2018-03-27 19:47:38 [main] INFO  App:38 - The middle index of a array of 0 elements is = 0
+2018-03-27 19:47:38 [main] INFO  App:43 - The middle index of a array of 1 elements is = 1
+2018-03-27 19:47:38 [main] INFO  App:48 - The middle indexes of a array of 2 elements is = 1, and 2. 
+2018-03-27 19:47:38 [main] INFO  App:43 - The middle index of a array of 3 elements is = 2
+2018-03-27 19:47:38 [main] INFO  App:48 - The middle indexes of a array of 4 elements is = 2, and 3. 
+2018-03-27 19:47:38 [main] INFO  App:43 - The middle index of a array of 5 elements is = 3
+2018-03-27 19:49:28 [main] INFO  App:38 - The middle index of a array of 0 elements is = 0
+2018-03-27 19:49:28 [main] INFO  App:49 - The middle indexes of a array of 1 elements is = 0, and 1. 
+2018-03-27 19:49:28 [main] INFO  App:44 - The middle index of a array of 2 elements is = 2
+2018-03-27 19:49:28 [main] INFO  App:49 - The middle indexes of a array of 3 elements is = 1, and 2. 
+2018-03-27 19:49:28 [main] INFO  App:44 - The middle index of a array of 4 elements is = 3
+2018-03-27 19:49:28 [main] INFO  App:49 - The middle indexes of a array of 5 elements is = 2, and 3. 
+2018-03-27 19:50:24 [main] INFO  App:38 - The middle index of a array of 01 elements is = 0
+2018-03-27 19:50:24 [main] INFO  App:49 - The middle indexes of a array of 11 elements is = 0, and 1. 
+2018-03-27 19:50:24 [main] INFO  App:44 - The middle index of a array of 21 elements is = 2
+2018-03-27 19:50:24 [main] INFO  App:49 - The middle indexes of a array of 31 elements is = 1, and 2. 
+2018-03-27 19:50:24 [main] INFO  App:44 - The middle index of a array of 41 elements is = 3
+2018-03-27 19:50:24 [main] INFO  App:49 - The middle indexes of a array of 51 elements is = 2, and 3. 
+2018-03-27 19:51:08 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 19:51:08 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 19:51:08 [main] INFO  App:44 - The middle index of a array of 3 elements is = 2
+2018-03-27 19:51:08 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 19:51:08 [main] INFO  App:44 - The middle index of a array of 5 elements is = 3
+2018-03-27 19:51:08 [main] INFO  App:49 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 19:54:01 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 19:54:07 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 19:54:27 [main] INFO  App:44 - The middle index of a array of 3 elements is = 2
+2018-03-27 19:54:39 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 19:58:21 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 19:58:21 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 19:58:21 [main] INFO  App:44 - The middle index of a array of 3 elements is = 2
+2018-03-27 19:58:21 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 19:58:21 [main] INFO  App:44 - The middle index of a array of 5 elements is = 3
+2018-03-27 19:58:21 [main] INFO  App:49 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 19:59:38 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 19:59:38 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 19:59:38 [main] INFO  App:44 - The middle index of a array of 3 elements is = 1
+2018-03-27 19:59:38 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 19:59:38 [main] INFO  App:44 - The middle index of a array of 5 elements is = 2
+2018-03-27 19:59:38 [main] INFO  App:49 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 20:02:04 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:02:52 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:05:07 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:05:17 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:10:00 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:11:02 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:18:13 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:18:13 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:18:13 [main] INFO  App:44 - The middle index of a array of 3 elements is = 1
+2018-03-27 20:18:13 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 20:18:13 [main] INFO  App:44 - The middle index of a array of 5 elements is = 2
+2018-03-27 20:18:13 [main] INFO  App:49 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 20:21:25 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:21:26 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:28:20 [main] INFO  App:38 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:28:20 [main] INFO  App:49 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:28:20 [main] INFO  App:44 - The middle index of a array of 3 elements is = 1
+2018-03-27 20:28:20 [main] INFO  App:49 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 20:28:20 [main] INFO  App:44 - The middle index of a array of 5 elements is = 2
+2018-03-27 20:28:20 [main] INFO  App:49 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 20:50:30 [main] INFO  App:40 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:50:30 [main] INFO  App:51 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:50:30 [main] INFO  App:46 - The middle index of a array of 3 elements is = 1
+2018-03-27 20:50:30 [main] INFO  App:51 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 20:50:30 [main] INFO  App:46 - The middle index of a array of 5 elements is = 2
+2018-03-27 20:50:30 [main] INFO  App:51 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 20:51:51 [main] INFO  App:40 - The middle index of a array of 1 elements is = 0
+2018-03-27 20:51:51 [main] INFO  App:51 - The middle indexes of a array of 2 elements is = 0, and 1. 
+2018-03-27 20:51:51 [main] INFO  App:46 - The middle index of a array of 3 elements is = 1
+2018-03-27 20:51:51 [main] INFO  App:51 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 20:51:51 [main] INFO  App:46 - The middle index of a array of 5 elements is = 2
+2018-03-27 20:51:51 [main] INFO  App:51 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:06:59 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:06:59 [main] INFO  App:72 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:06:59 [main] INFO  App:86 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:06:59 [main] INFO  App:72 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:06:59 [main] INFO  App:86 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:08:29 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:08:29 [main] INFO  App:72 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:08:29 [main] INFO  App:86 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:08:29 [main] INFO  App:72 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:08:29 [main] INFO  App:86 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:12:24 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:12:24 [main] INFO  App:72 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:12:24 [main] INFO  App:86 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:12:24 [main] INFO  App:72 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:12:24 [main] INFO  App:86 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:22:13 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:22:13 [main] INFO  App:74 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:22:13 [main] INFO  App:91 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:22:13 [main] INFO  App:74 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:22:13 [main] INFO  App:91 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:26:51 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:26:56 [main] INFO  App:74 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:29:01 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:29:01 [main] INFO  App:74 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:29:01 [main] INFO  App:91 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:29:01 [main] INFO  App:74 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:29:01 [main] INFO  App:91 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:32:25 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:32:25 [main] INFO  App:74 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:32:25 [main] INFO  App:91 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:32:25 [main] INFO  App:124 - moving 8 from maxheap to minHeap
+2018-03-27 21:32:25 [main] INFO  App:124 - moving 3 from maxheap to minHeap
+2018-03-27 21:32:25 [main] INFO  App:124 - moving 5 from maxheap to minHeap
+2018-03-27 21:32:25 [main] INFO  App:74 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:32:25 [main] INFO  App:91 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:38:23 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:38:23 [main] INFO  App:86 - The middle index of a array of 3 elements is = 1
+2018-03-27 21:38:23 [main] INFO  App:115 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:38:23 [main] INFO  App:78 - moving 8 from maxheap to minHeap
+2018-03-27 21:38:23 [main] INFO  App:78 - moving 3 from maxheap to minHeap
+2018-03-27 21:38:23 [main] INFO  App:78 - moving 4 from maxheap to minHeap
+2018-03-27 21:38:23 [main] INFO  App:86 - The middle index of a array of 5 elements is = 2
+2018-03-27 21:38:23 [main] INFO  App:115 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:42:21 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:42:21 [main] INFO  App:119 - moving 7 from maxheap to minHeap
+2018-03-27 21:42:21 [main] INFO  App:119 - moving 3 from maxheap to minHeap
+2018-03-27 21:42:21 [main] INFO  App:123 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:42:21 [main] INFO  App:123 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:49:00 [main] INFO  App:44 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 8 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 3 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:128 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:49:00 [main] INFO  App:75 - moving 3 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:75 - moving 4 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:75 - moving 8 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:83 - moving 8 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:83 - moving 3 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:83 - moving 4 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:116 - moving 3 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:116 - moving 4 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:116 - moving 5 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:116 - moving 8 from minHeap to MaxHeap
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 8 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 5 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 3 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:124 - moving 4 from maxheap to minHeap
+2018-03-27 21:49:00 [main] INFO  App:128 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-27 21:52:32 [main] INFO  App:39 - The middle index of a array of 1 elements is = 0
+2018-03-27 21:52:32 [main] INFO  App:114 - moving 8 from maxheap to minHeap
+2018-03-27 21:52:32 [main] INFO  App:118 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-27 21:52:32 [main] INFO  App:114 - moving 7 from maxheap to minHeap
+2018-03-27 21:52:32 [main] INFO  App:118 - The middle indexes of a array of 6 elements is = 2, and 3. 

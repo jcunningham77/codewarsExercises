@@ -2,7 +2,8 @@ package com.jeffcunningham.org.MinIntHeap;
 
 import java.util.Arrays;
 
-public class MinIntHeap {
+public class MaxIntHeap {
+	
 	private int capacity = 10;
 	public int size = 0;
 
@@ -83,7 +84,7 @@ public class MinIntHeap {
 
 	public void heapifyUp() {
 		int index = size -1;
-		while(hasParent(index)&&(parent(index)>items[index])) {
+		while(hasParent(index)&&(parent(index)<items[index])) {
 			swap(getParentIndex(index),index);
 			index = getParentIndex(index);
 		}
@@ -93,7 +94,7 @@ public class MinIntHeap {
 		int index = 0;
 		while (hasLeftChild(index)) {
 			int smallerChildIndex = getLeftChildIndex(index);
-			if (hasRightChild(index)&&rightChild(index)<leftChild(index)) {
+			if (hasRightChild(index)&&rightChild(index)>leftChild(index)) {
 				smallerChildIndex = getRightChildIndex(index);
 			}
 			
@@ -104,6 +105,6 @@ public class MinIntHeap {
 			}
 			index = smallerChildIndex;
 		}
-	}
+	}	
 
 }
