@@ -270,3 +270,40 @@
 2018-03-27 21:52:32 [main] INFO  App:118 - The middle indexes of a array of 4 elements is = 1, and 2. 
 2018-03-27 21:52:32 [main] INFO  App:114 - moving 7 from maxheap to minHeap
 2018-03-27 21:52:32 [main] INFO  App:118 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 18:29:22 [main] INFO  App:39 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:30:32 [main] INFO  App:114 - moving 8 from maxheap to minHeap
+2018-03-28 18:31:23 [main] INFO  App:118 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-28 18:33:50 [main] INFO  App:118 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 18:34:14 [main] INFO  App:39 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:34:32 [main] INFO  App:114 - moving 8 from maxheap to minHeap
+2018-03-28 18:37:58 [main] INFO  App:39 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:37:58 [main] INFO  App:114 - moving 8 from maxheap to minHeap
+2018-03-28 18:37:58 [main] INFO  App:118 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-28 18:37:58 [main] INFO  App:114 - moving 7 from maxheap to minHeap
+2018-03-28 18:37:58 [main] INFO  App:118 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 18:49:16 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:49:16 [main] INFO  App:119 - moving 5 from maxheap to minHeap
+2018-03-28 18:49:16 [main] INFO  App:129 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-28 18:49:16 [main] INFO  App:112 - moving 5 from minHeap to MaxHeap
+2018-03-28 18:49:16 [main] INFO  App:129 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 18:51:40 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:54:54 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:54:54 [main] INFO  App:119 - moving 5 from maxheap to minHeap
+2018-03-28 18:54:54 [main] INFO  App:129 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-28 18:54:54 [main] INFO  App:112 - moving 5 from minHeap to MaxHeap
+2018-03-28 18:54:54 [main] INFO  App:129 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 18:58:50 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 18:58:50 [main] INFO  App:126 - moving 5 from maxheap to minHeap
+2018-03-28 18:58:50 [main] INFO  App:136 - The middle indexes of a array of 4 elements is = 1, and 2. 
+2018-03-28 18:58:50 [main] INFO  App:119 - moving 5 from minHeap to MaxHeap
+2018-03-28 18:58:50 [main] INFO  App:136 - The middle indexes of a array of 6 elements is = 2, and 3. 
+2018-03-28 19:02:32 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 19:02:32 [main] INFO  App:125 - moving 5 from maxheap to minHeap
+2018-03-28 19:02:32 [main] INFO  App:135 - The middle indexes of a array of 4 elements is = 0, and 0. 
+2018-03-28 19:02:32 [main] INFO  App:118 - moving 5 from minHeap to MaxHeap
+2018-03-28 19:02:32 [main] INFO  App:135 - The middle indexes of a array of 6 elements is = 0, and 0. 
+2018-03-28 19:04:56 [main] INFO  App:42 - The middle index of a array of 1 elements is = 0
+2018-03-28 19:04:56 [main] INFO  App:128 - moving 5 from maxheap to minHeap
+2018-03-28 19:04:56 [main] INFO  App:121 - moving 5 from minHeap to MaxHeap
+2018-03-28 19:06:22 [main] INFO  App:128 - moving 5 from maxheap to minHeap
+2018-03-28 19:06:22 [main] INFO  App:121 - moving 5 from minHeap to MaxHeap

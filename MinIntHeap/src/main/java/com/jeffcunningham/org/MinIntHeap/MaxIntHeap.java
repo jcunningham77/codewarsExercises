@@ -93,17 +93,17 @@ public class MaxIntHeap {
 	public void heapifyDown() {
 		int index = 0;
 		while (hasLeftChild(index)) {
-			int smallerChildIndex = getLeftChildIndex(index);
+			int biggerChildIndex = getLeftChildIndex(index);
 			if (hasRightChild(index)&&rightChild(index)>leftChild(index)) {
-				smallerChildIndex = getRightChildIndex(index);
+				biggerChildIndex = getRightChildIndex(index);
 			}
 			
-			if (items[index]<items[smallerChildIndex]) {
+			if (items[index]>items[biggerChildIndex]) {
 				break;
 			} else {
-				swap(index,smallerChildIndex);
+				swap(index,biggerChildIndex);
 			}
-			index = smallerChildIndex;
+			index = biggerChildIndex;
 		}
 	}	
 
